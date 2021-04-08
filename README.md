@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The node_modules file wasn't included in this repository because of .gitignore
+
 ## Available Scripts
 
 In the project directory, you can run:
